@@ -1,0 +1,6 @@
+{
+  "name": "Virat Kohli: Batting Masterclass Analysis",
+  "description": "Executive cricket analysis and interactive tactical dashboard analyzing Virat Kohli's trigger-motion mechanics and IPL career statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
